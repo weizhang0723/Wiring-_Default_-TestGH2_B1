@@ -1,6 +1,6 @@
 [harness20]
 desc {}
-uniq 5
+uniq 7
 sheets {sheet1}
 [resources]
 <font>
@@ -23,6 +23,7 @@ sheets {sheet1}
 <elements>
 n n_1_1_ n_1_1 {{sheet1 w_2_1_}} {} 
 n n_3_1_ n_2_1 {{sheet1 w_4_1_}} {} 
+n n_5_1_ n_3_1 {{sheet1 w_6_1_}} {} 
 <properties>
 [events]
 [reference]
