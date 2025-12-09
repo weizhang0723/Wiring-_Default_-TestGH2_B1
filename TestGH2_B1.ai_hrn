@@ -1,6 +1,6 @@
 [harness20]
 desc {}
-uniq 7
+uniq 11
 sheets {sheet1}
 [resources]
 <font>
@@ -21,9 +21,11 @@ sheets {sheet1}
 <style>
 [element resources]
 <elements>
-n n_1_1_ n_1_1 {{sheet1 w_2_1_}} {} 
+n n_1_1_ n_1_1 {{sheet1 w_7_2_ w_8_2_ w_6_1_}} {} 
 n n_3_1_ n_2_1 {{sheet1 w_4_1_}} {} 
-n n_5_1_ n_3_1 {{sheet1 w_6_1_}} {} 
+sp sp_10_2_ SP.SP1_2 {{sheet1 _splice__9_2_}} { 
+{ref SP1_2 {} 2 {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} 6 l}
+} { } 
 <properties>
 [events]
 [reference]
