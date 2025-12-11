@@ -1,7 +1,7 @@
 [harness20]
 desc {}
-uniq 13
-sheets {sheet1}
+uniq 14
+sheets {sheet1 sheet1_new}
 [resources]
 <font>
 {-adobe-helvetica-medium-r-normal--*-40-100-100-*-*-*-*}
@@ -21,7 +21,7 @@ sheets {sheet1}
 <style>
 [element resources]
 <elements>
-n n_1_1_ n_1_1 {{sheet1 w_7_2_ w_8_2_ w_6_1_}} {} 
+n n_1_1_ n_1_1 {{sheet1 w_6_1_ w_7_2_ w_8_2_}} {} 
 n n_3_1_ n_2_1 {{sheet1 w_4_1_}} {} 
 sp sp_10_2_ SP.SP1_2 {{sheet1 _splice__9_2_}} { 
 {ref SP1_2 {} 2 {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} 6 l}
@@ -35,3 +35,8 @@ sheet1
 uniq TestGH2_B1_0_
 <external>
 TestGH2_B1_0_
+[sheet]
+sheet1_new
+uniq TestGH2_B1_13_7_
+<external>
+TestGH2_B1_13_7_
