@@ -1,7 +1,7 @@
 [harness20]
 desc {}
-uniq 14
-sheets {sheet1 sheet1_new}
+uniq 15
+sheets {sheet1 sheet1_new sheet1_19}
 [resources]
 <font>
 {-adobe-helvetica-medium-r-normal--*-40-100-100-*-*-*-*}
@@ -40,3 +40,8 @@ sheet1_new
 uniq TestGH2_B1_13_7_
 <external>
 TestGH2_B1_13_7_
+[sheet]
+sheet1_19
+uniq TestGH2_B1_14_19_
+<external>
+TestGH2_B1_14_19_
